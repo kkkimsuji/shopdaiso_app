@@ -56,3 +56,14 @@
 3. 커뮤니티 개설
     1. 유튜브에 다이소의 좋은 상품을 소개하는 영상이 많음
     2. 사용자끼리 다이소 제품의 신박한 사용법, 인테리어 활용 등 아이디어 공유
+
+![image](https://github.com/kkkimsuji/shopdaiso_app/assets/117288953/661aca38-e5f0-412f-975f-36758313066a)
+![image](https://github.com/kkkimsuji/shopdaiso_app/assets/117288953/0e9ceff5-8078-45d4-86e3-b73d8701a2c6)
+![image](https://github.com/kkkimsuji/shopdaiso_app/assets/117288953/090e4567-7771-48f9-a6d3-139227bac86d)
+![image](https://github.com/kkkimsuji/shopdaiso_app/assets/117288953/5108ad71-90d7-4085-9adb-75177293271e)
+![image](https://github.com/kkkimsuji/shopdaiso_app/assets/117288953/c1dcf946-e57b-48df-add6-ec4534ea694a)
+![image](https://github.com/kkkimsuji/shopdaiso_app/assets/117288953/df3c559d-8609-4e7a-a5dc-2dbc2ec27a2c)
+![image](https://github.com/kkkimsuji/shopdaiso_app/assets/117288953/51ea8658-de56-4526-bea4-183414e61509)
+![image](https://github.com/kkkimsuji/shopdaiso_app/assets/117288953/47e0dc63-def2-4d57-b733-c65aac7a4637)
+![image](https://github.com/kkkimsuji/shopdaiso_app/assets/117288953/740d44f6-3b6f-49af-b622-bc06112b2c07)
+![image](https://github.com/kkkimsuji/shopdaiso_app/assets/117288953/a50480b8-eb74-49e9-a5ac-63c026f6098e)
