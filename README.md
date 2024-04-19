@@ -1,3 +1,4 @@
 # 샵다이소 분석
 
-샵다이소 앱을 분석하는데 있어서 필요한 자료 및 코드를 올려놓았다.
+[샵다이소.pdf](https://github.com/kkkimsuji/shopdaiso_app/files/15032864/default.pdf)
+
