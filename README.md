@@ -57,6 +57,9 @@
     1. 유튜브에 다이소의 좋은 상품을 소개하는 영상이 많음
     2. 사용자끼리 다이소 제품의 신박한 사용법, 인테리어 활용 등 아이디어 공유
 
+
+---
+### 주요 분석 결과
 ![image](https://github.com/kkkimsuji/shopdaiso_app/assets/117288953/661aca38-e5f0-412f-975f-36758313066a)
 ![image](https://github.com/kkkimsuji/shopdaiso_app/assets/117288953/0e9ceff5-8078-45d4-86e3-b73d8701a2c6)
 ![image](https://github.com/kkkimsuji/shopdaiso_app/assets/117288953/090e4567-7771-48f9-a6d3-139227bac86d)
